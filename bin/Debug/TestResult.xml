@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="3" result="Passed" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15" engine-version="3.15.0.0" clr-version="4.0.30319.42000" start-time="2022-04-26 15:15:32Z" end-time="2022-04-26 15:16:56Z" duration="84.015433">
+  <command-line><![CDATA[nunit3-console  C:\InoveTeste\bin\Debug\InoveTeste.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1006" name="InoveTeste.dll" fullname="C:\InoveTeste\bin\Debug\InoveTeste.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2022-04-26T15:15:33.7262386Z" end-time="2022-04-26T15:16:56.0567982Z" duration="82.330141" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+    <environment framework-version="3.13.3.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.19043.0" platform="Win32NT" cwd="C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\bin\Debug" machine-name="LAPTOP-15J5S163" user="Jéssica Cardoso" user-domain="LAPTOP-15J5S163" culture="pt-BR" uiculture="pt-BR" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.7.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.7.2" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="20780" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1007" name="ST01Contato" fullname="ST01Contato" runstate="Runnable" testcasecount="3" result="Passed" start-time="2022-04-26T15:15:33.7602400Z" end-time="2022-04-26T15:16:56.0567982Z" duration="82.296566" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+      <test-suite type="TestFixture" id="1-1000" name="CT01ValidarLayoutTela" fullname="ST01Contato.CT01ValidarLayoutTela" classname="ST01Contato.CT01ValidarLayoutTela" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-04-26T15:15:33.7652364Z" end-time="2022-04-26T15:15:58.1151226Z" duration="24.349252" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="7">
+        <test-case id="1-1001" name="TheCT01ValidarLayoutTelaTest" fullname="ST01Contato.CT01ValidarLayoutTela.TheCT01ValidarLayoutTelaTest" methodname="TheCT01ValidarLayoutTelaTest" classname="ST01Contato.CT01ValidarLayoutTela" runstate="Runnable" seed="9688850" result="Passed" start-time="2022-04-26T15:15:33.7742429Z" end-time="2022-04-26T15:15:58.0931194Z" duration="24.320137" asserts="7" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1002" name="CT02ValidarCamposObrigatorios" fullname="ST01Contato.CT02ValidarCamposObrigatorios" classname="ST01Contato.CT02ValidarCamposObrigatorios" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-04-26T15:15:58.1231220Z" end-time="2022-04-26T15:16:19.8641794Z" duration="21.740758" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+        <test-case id="1-1003" name="TheCT02ValidarCamposObrigatoriosTest" fullname="ST01Contato.CT02ValidarCamposObrigatorios.TheCT02ValidarCamposObrigatoriosTest" methodname="TheCT02ValidarCamposObrigatoriosTest" classname="ST01Contato.CT02ValidarCamposObrigatorios" runstate="Runnable" seed="2032078443" result="Passed" start-time="2022-04-26T15:15:58.1231220Z" end-time="2022-04-26T15:16:19.8641794Z" duration="21.740195" asserts="6" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1004" name="CT03EnviarMensagem" fullname="ST01Contato.CT03EnviarMensagem" classname="ST01Contato.CT03EnviarMensagem" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-04-26T15:16:19.8641794Z" end-time="2022-04-26T15:16:56.0567982Z" duration="36.192927" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <test-case id="1-1005" name="TheCT03EnviarMensagemTest" fullname="ST01Contato.CT03EnviarMensagem.TheCT03EnviarMensagemTest" methodname="TheCT03EnviarMensagemTest" classname="ST01Contato.CT03EnviarMensagem" runstate="Runnable" seed="1515365212" result="Passed" start-time="2022-04-26T15:16:19.8651926Z" end-time="2022-04-26T15:16:56.0567982Z" duration="36.192061" asserts="2" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
