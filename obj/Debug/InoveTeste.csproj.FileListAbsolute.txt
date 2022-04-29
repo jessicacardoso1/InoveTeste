@@ -25,3 +25,6 @@ C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\obj\Debug\InoveTest
 C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\obj\Debug\InoveTeste.dll
 C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\obj\Debug\InoveTeste.pdb
 C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\obj\Debug\InoveTeste.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Jéssica Cardoso\source\repos\InoveTeste\InoveTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

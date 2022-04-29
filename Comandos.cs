@@ -13,7 +13,7 @@ namespace InoveTeste
 {
     class Comandos
     {
-        #region Browser
+        #region Browser Local
         public static IWebDriver GetBrowserLocal(IWebDriver driver, String browser)
         {
             
@@ -44,7 +44,7 @@ namespace InoveTeste
         }
         #endregion
 
-        #region Browser
+        #region Browser Remoto
         public static IWebDriver GetBrowserRemote(IWebDriver driver, String browser, String uri)
         {
 
